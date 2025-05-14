@@ -1,0 +1,5 @@
+# apps/user1-foo/kustomization.yaml
+resources:
+  - deployment.yaml
+  - service.yaml
+  - ingress.yaml
